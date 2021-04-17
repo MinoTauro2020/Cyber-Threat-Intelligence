@@ -2,7 +2,7 @@
 --------------------------------------
 https://www.whoisxmlapi.com/ \
 https://drs.whoisxmlapi.com/ \
-https://lampyre.io “Data Analysis & OSINT Tool”,
+https://lampyre.io \
 https://archive.org/ \
 https://archive.is/ \
 https://cachedview.com/ \
