@@ -9,4 +9,5 @@ https://cachedview.com/ \
 http://www.cachedpages.com/ \
 https://webcitation.org/query \
 http://timetravel.mementoweb.org/ \
-https://oldweb.today/#19960101/http://geocities.com/ \
+https://oldweb.today/#19960101/ \
+http://geocities.com/ \
