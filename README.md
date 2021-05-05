@@ -11,3 +11,5 @@ https://webcitation.org/query \
 http://timetravel.mementoweb.org/ \
 https://oldweb.today/#19960101/ \
 http://geocities.com/ \
+https://github.com/Te-k/harpoon \
+https://grep.app/search \
